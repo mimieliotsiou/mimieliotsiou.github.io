@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mimie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mimieliotsiou.com
+  * I am mimie (https://keybase.io/mimie) on keybase.
+  * I have a public key ASD8NCq4Yjimfsh9HsjA4eZgPk1SxUgxpoecF4MDsnGXbAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fc342ab86238a67ec87d1ec8c0e1e6603e4d52c54831a6879c178303b271976c0a",
+      "host": "keybase.io",
+      "kid": "0120fc342ab86238a67ec87d1ec8c0e1e6603e4d52c54831a6879c178303b271976c0a",
+      "uid": "c3dbcdbc8ba7b4e6738de3371eec5f19",
+      "username": "mimie"
+    },
+    "merkle_root": {
+      "ctime": 1512491085,
+      "hash": "0102644dcd2096027dfec88a59836b9235acb2e64eeed664f9b574697c1369ce82da53019490762fb60b5ee7923fed70ad6ecc0b837f6ee62c2b9ad88b241f85",
+      "hash_meta": "02bdf899d7600d80a65468e3716793a134b114aa9f1008da4fee6961f0cc8733",
+      "seqno": 1780815
+    },
+    "service": {
+      "hostname": "mimieliotsiou.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1512491113,
+  "expire_in": 504576000,
+  "prev": "2ed9561195272a1a1996157e3e79a94dd3f99bac8a93bdcdee366abe69426859",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/DQquGI4pn7IfR7IwOHmYD5NUsVIMaaHnBeDA7Jxl2wKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmMzNDJhYjg2MjM4YTY3ZWM4N2QxZWM4YzBlMWU2NjAzZTRkNTJjNTQ4MzFhNjg3OWMxNzgzMDNiMjcxOTc2YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmMzNDJhYjg2MjM4YTY3ZWM4N2QxZWM4YzBlMWU2NjAzZTRkNTJjNTQ4MzFhNjg3OWMxNzgzMDNiMjcxOTc2YzBhIiwidWlkIjoiYzNkYmNkYmM4YmE3YjRlNjczOGRlMzM3MWVlYzVmMTkiLCJ1c2VybmFtZSI6Im1pbWllIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEyNDkxMDg1LCJoYXNoIjoiMDEwMjY0NGRjZDIwOTYwMjdkZmVjODhhNTk4MzZiOTIzNWFjYjJlNjRlZWVkNjY0ZjliNTc0Njk3YzEzNjljZTgyZGE1MzAxOTQ5MDc2MmZiNjBiNWVlNzkyM2ZlZDcwYWQ2ZWNjMGI4MzdmNmVlNjJjMmI5YWQ4OGIyNDFmODUiLCJoYXNoX21ldGEiOiIwMmJkZjg5OWQ3NjAwZDgwYTY1NDY4ZTM3MTY3OTNhMTM0YjExNGFhOWYxMDA4ZGE0ZmVlNjk2MWYwY2M4NzMzIiwic2Vxbm8iOjE3ODA4MTV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibWltaWVsaW90c2lvdS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTEyNDkxMTEzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjJlZDk1NjExOTUyNzJhMWExOTk2MTU3ZTNlNzlhOTRkZDNmOTliYWM4YTkzYmRjZGVlMzY2YWJlNjk0MjY4NTkiLCJzZXFubyI6NCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxED50UPszap9vQN7jCnvj8sVTI0q7+31onPNyrxcQKLAnTSKEbE5tAVN3KoFjMvKs1nJnhlQc3hDF8xz9qQEc2kKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgA1pYEdAFb60Nsf/45kSqyjmBVTnSr+hgzW4rd5EAcjajdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mimie
+
+==================================================================
